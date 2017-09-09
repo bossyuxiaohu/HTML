@@ -1,0 +1,35 @@
+*{margin:0;padding: 0;}
+a{text-decoration: none}
+ul{list-style: none}
+.boxTop{height: 70px; background: #18BEBE url("../images/logo.png") no-repeat center center }
+.boxNav{
+    background-color: #F3EFF2;
+    height: 40px;
+}
+.boxCenter{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+}
+.boxLeft{float: left;}
+.boxRight{float: right}
+.boxCenter:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.sLeft{
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    background: url("../images/location.png") no-repeat 0 5px ;
+}
+.sRight{
+      display: inline-block;
+      width: 19px;
+      height: 19px;
+      background-color: red;
+      background: url("../images/adm.png") no-repeat 0 0  ;
+}

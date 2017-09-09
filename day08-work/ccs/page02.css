@@ -1,0 +1,364 @@
+.top{background-color: #FAFAFA;}
+.top span{padding: 0 14px}
+.head{width: 1200px; line-height: 36px;}
+.wrapper{width: 1200px}
+.conterner_one{margin-top: 30px}
+.logo>a{
+    display: block;
+    width: 70px;
+    height: 70px;
+    background: url("../images02/logo.png") no-repeat center center;
+}
+.shop>span:first-child{
+    display: inline-block;
+    width: 15px;
+    height: 16px;
+    background: url("../images02/clock.png") no-repeat center center;
+    top: 2px;
+}
+.shop{margin-top: -10px}
+.search{margin-top: 5px;color: #A7A7A7;}
+.search>input:first-child{
+    width: 390px;
+    height: 40px;
+    text-indent: 20px;
+    font-size: 16px;
+}
+.find{
+    width: 40px;
+    height: 40px;
+    border-left: none;
+    background: url("../images02/fangdajing.png") no-repeat center center;
+    top: 14px;
+    left: -5px;
+}
+.shopcar{
+    width: 125px;
+    height: 40px;
+    background:#FFDB3D url("../images02/shopcar.png") no-repeat 30px center;
+    padding-left: 20px;
+}
+.goods{
+    width: 170px;
+    top: 50px;
+    left: 210px;
+    font-size: 12px;
+}
+.goods>a{
+    margin-right: 5px;
+    background-color: #F1F1F1;
+    padding: 2px;
+}
+.subnav{margin-top: 20px}
+.subnav>div{
+    line-height: 50px;
+    text-align: center;
+}
+.subnav a{
+    color: white;
+    font-size:19px;
+    height: 50px;
+    display: inline-block;
+}
+.subnav a:hover{color: #fe763e}
+.subnav_left{
+    width: 250px;
+    background-color: #FF4A00;
+}
+.subnav_left>a:first-child{padding-right: 110px}
+.subnav_left>a:last-child{font-weight: bolder;}
+.subnav_right{
+    width: 950px;
+    background-color: #404145;
+}
+.subnav_right>a{
+    display: inline-block;
+    padding: 0 18px
+}
+
+.box01{
+    line-height: 50px;
+    width: 1200px;
+    margin-top: 20px
+}
+.box02>a:first-child{
+    font-size: 20px;
+    color: black;
+}
+.box02>span{padding: 0 5px;color: black}
+.box03 span{padding: 0 5px;color: #eee}
+.box03 a:first-child{color: #FF4A00}
+.box03>button{
+    width: 120px;
+    height: 30px;
+    background: #FF4A00;
+    color: white;
+    border: none;
+}
+.SetTop{
+    text-align: center;
+    height: 900px;
+    min-width: 1200px;
+}
+.ulw1{width: 300px;}
+.ulw2{width: 600px;}
+
+.red{
+    display: block;
+    width: 119px;
+    height: 108px;
+    background: url("../images02/reddot.jpg") no-repeat center center;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -550px;
+}
+.aClick01{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images02/hezi.png") no-repeat center center;
+}
+.p01{margin-top: 85px}
+.p02{margin-top: 10px}
+.p03{margin-top: 20px}
+.hezi{
+    font-size: 45px;
+    color: black;
+    margin-top: 200px;
+}
+.SetTop span{color: red}
+.money{font-size: 45px;padding-right: 15px}
+.money01{font-size: 20px}
+.SetTop button{
+    width: 150px;
+    height: 50px;
+    background-color: #FF4A00;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+}
+.SetTop_ul{
+    width: 300px;
+    height: 300px;
+}
+.contentOne{height: 985px;}
+.background{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images02/hz-24.jpg") no-repeat center center;
+}
+.contentOne>ul{top: 80px}
+.contentOne>ul>li:nth-child(2){margin: 5px 0;}
+.small{
+    font-size: 50px;
+    color: black;
+}
+.small01{font-size: 15px}
+.contentTwo{height:1121px; }
+.background01{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images02/jihe.png") no-repeat center center;
+}
+.contentTree{height:1121px; }
+.background02{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images02/hz-4.jpg") no-repeat center center;
+}
+.contentFour{height:970px; }
+.background03{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images02/jiating.png") no-repeat center center;
+}
+.contentFive{height: 1100px;background-color: #FCFCFC}
+.gift{height: 700px}
+.icon{width: 1050px; height: 210px;}
+.background04{
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #FCFCFC url("../images02/hz-28.jpg") no-repeat center 200px;
+}
+.smal2{
+    font-size: 45px;
+    color: black;
+}
+.gift span{color: red}
+.money21{font-size:40px;padding-right: 10px}
+.money22{font-size:20px;}
+.good>li:nth-child(1){padding-top: 50px;}
+.good>li:nth-child(2){margin-top: 5px}
+.good>li:nth-child(3){margin-top: 480px;}
+.good{
+    width: 450px;
+    left: 50%;
+    margin-left: -225px;
+}
+.gift button{
+    width: 150px;
+    height: 40px;
+    background-color: #FF4A00;
+    color: white;
+    border-radius: 5px;
+    top: 600px;
+    left: 50%;
+    margin-left: -75px;
+}
+.icon div{
+    width: 210px;
+    height: 210px;
+    text-align: center;
+}
+.icon a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.pic01{background: url("../images02/hzs-10.jpg") no-repeat center center;}
+.pic02{background: url("../images02/hzs-11.jpg") no-repeat center center;}
+.pic03{background: url("../images02/hzs-12.jpg") no-repeat center center;}
+.pic04{background: url("../images02/hz-13.jpg") no-repeat center center;}
+.pic05{background: url("../images02/gongyi.png") no-repeat center center;}
+.icon span{
+    display:inline-block;
+    position: relative;
+    top: 150px;
+    font-size: 16px;
+}
+.icon{margin-top:50px}
+
+.game{margin-top: 40px;margin-bottom: 40px}
+.game div{
+    width: 400px;
+    height: 380px;
+    
+}
+.game{width: 1200px}
+.div01{background: url("../images02/shoubing.jpg") no-repeat center 50px;background-size: 220px 250px}
+.div02{background: url("../images02/common-footer-mitv2.jpg") no-repeat center 5px;}
+.div03{background: url("../images02/common-footer-mibox.jpg") no-repeat center 30px;background-size: 130px 200px}
+.game ul{
+    margin-top: 250px;
+}
+.sm1{
+    font-size: 20px;
+    color: black;
+}
+.game span{color: red;font-size: 15px}
+.li01,.li03{margin-bottom: 10px}
+
+.bo01{margin-bottom: 50px ;height: 60px}
+
+.bottom{
+    background-color: #FAFAFA;
+    height: 530px;
+}
+.conterner_four{
+    width: 1200px;
+    text-align: center;
+}
+.mend{
+    height: 160px;
+}
+.mend a{
+    display: block;
+    width: 240px;
+    height: 160px;
+}
+.mend span{
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+    margin-top: 110px;
+}
+.img_01{background: url("../images02/10.png") no-repeat center center}
+.img_02{background: url("../images02/11.png") no-repeat center center}
+.img_03{background: url("../images02/12.png") no-repeat center center}
+.img_04{background: url("../images02/13.png") no-repeat center center}
+.img_05{background: url("../images02/14.png") no-repeat center center}
+
+
+.kd_1{
+    width: 190px;
+    height: 120px;
+    margin: 40px 0;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.online{
+    width: 250px;
+    height: 120px;
+    margin: 40px 0;
+}
+.help li{
+    padding: 4px 0;
+}
+.handbook a{
+    font-size: 20px;
+    color: black;
+}
+.online>p:first-child{
+    font-size: 25px;
+    color: black;
+}
+.online>p:nth-child(2){padding: 5px 0}
+.online>button{
+    width: 120px;
+    height: 30px;
+    background-color: #FF4A00;
+    margin-top: 15px;
+    color: white;
+}
+.website{margin-top: 20px;}
+.website a{color: black}
+.website{font-size: 12px;color: black}
+.website span{padding: 0 3px;}
+.website p{margin-top: 5px}
+.fully{
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+}
+.tb{
+    display: inline-block;
+    width: 169px;
+    height: 25px;
+    background: url("../images02/16.png") no-repeat center center;
+}
+
+.b_1{
+    width: 200px;
+    height: 40px;
+    text-indent: 15px;
+    position: relative;
+    top: -10px;
+}
+.b_2{
+    width: 14px;
+    height: 9px;
+    background: url("../images02/indexSelect.png") no-repeat center center;
+    border: none;
+    position: relative;
+    top: -10px;
+    left: -25px;
+}
